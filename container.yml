@@ -12,6 +12,6 @@ services:
         arguments: ['@config', '@topic']
     yamlSlow:
         class: 'Symfony\Component\Yaml\Yaml'
-    paymentgateway:
+    paymentGateway:
         class: 'Opine\PaymentBraintreeGateway'
         arguments: ['@db', '@config']

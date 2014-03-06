@@ -1,0 +1,2 @@
+[06-Mar-2014 22:59:00 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /var/www/payment-process/PaymentBraintreeGateway/tests/PaymentBraintreeGatewayTest.php on line 4
+[06-Mar-2014 18:09:31 America/New_York] PHP Parse error:  syntax error, unexpected ''Environment'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /var/www/payment-process/PaymentBraintreeGateway/config/braintree.php on line 7
