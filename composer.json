@@ -1,14 +1,14 @@
 {
-    "name": "opine/person",
+    "name": "opine/paymentbraintreegateway",
     "type": "library",
     "minimum-stability": "dev",
-    "description": "Person / CRM class",
-    "keywords": ["CRM"],
+    "description": "Payment Braintree Gateway",
+    "keywords": ["Braintree"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Ryan Mahoney",
-            "email": "ryan@virtuecenter.com",
+            "name": "Zeeshan Sattar",
+            "email": "zsattar87@gmail.com",
             "homepage": "http://opine-php.org",
             "role": "Developer"
         }
