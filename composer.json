@@ -3,7 +3,7 @@
     "type": "library",
     "minimum-stability": "dev",
     "description": "Payment Braintree Gateway",
-    "keywords": ["Braintree"],
+    "keywords": ["Braintree", "Payment"],
     "license": "MIT",
     "authors": [
         {
