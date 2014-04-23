@@ -1,27 +1,32 @@
 {
-    "name": "opine/paymentbraintreegateway",
+    "name": "opine\/paymentbraintreegateway",
     "type": "library",
     "minimum-stability": "dev",
     "description": "Payment Braintree Gateway",
-    "keywords": ["Braintree", "Payment"],
+    "keywords": [
+        "Braintree",
+        "Payment"
+    ],
     "license": "MIT",
     "authors": [
         {
             "name": "Zeeshan Sattar",
             "email": "zsattar87@gmail.com",
-            "homepage": "http://opine-php.org",
+            "homepage": "http:\/\/opine-php.org",
             "role": "Developer"
         }
     ],
     "require": {
         "php": ">=5.4.0",
-        "phpunit/phpunit": "3.7.32",
-        "opine/db": "dev-master",
-        "opine/config": "dev-master",
-        "opine/container": "dev-master",
-        "braintree/braintree_php": "2.26.0"
+        "phpunit\/phpunit": "3.7.32",
+        "opine\/db": "1.0.1",
+        "opine\/config": "1.0.1",
+        "opine\/container": "1.0.1",
+        "braintree\/braintree_php": "2.26.0"
     },
     "autoload": {
-        "psr-4": {"Opine\\": "src/"}
+        "psr-4": {
+            "Opine\\": "src\/"
+        }
     }
 }
