@@ -19,9 +19,9 @@
     "require": {
         "php": ">=5.4.0",
         "phpunit\/phpunit": "3.7.32",
-        "opine\/db": "1.0.1",
-        "opine\/config": "1.0.1",
-        "opine\/container": "1.0.1",
+        "opine\/db": "dev-master",
+        "opine\/config": "dev-master",
+        "opine\/container": "dev-master",
         "braintree\/braintree_php": "2.26.0"
     },
     "autoload": {
